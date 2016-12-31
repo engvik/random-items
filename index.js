@@ -6,19 +6,19 @@ function randomItems(arr, num) {
   }
 
   if (arr.length < num) {
-    throw Error('Not long enough array to return ' + num + ' random elements.');
+    throw Error('Not long enough array to return ' + num + ' random items.');
   }
 
   var copy = arr.slice();
-  var pickedElements = [];
+  var pickedItems = [];
 
   while (num--) {
     var random = Math.floor(Math.random() * copy.length)
     var element = copy.splice(random, 1)[0];
-    pickedElements.push(element);
+    pickedItems.push(element);
   }
 
-  return pickedElements;
+  return pickedItems;
 }
 
 module.exports = randomItems;

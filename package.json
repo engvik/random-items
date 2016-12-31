@@ -1,0 +1,23 @@
+{
+  "name": "random-items",
+  "version": "1.0.0",
+  "description": "Returns a new array with random items from an array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engvik/random-items.git"
+  },
+  "keywords": [
+    "random",
+    "array"
+  ],
+  "author": "Lars Jansøn Engvik",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/engvik/random-items/issues"
+  },
+  "homepage": "https://github.com/engvik/random-items#readme"
+}

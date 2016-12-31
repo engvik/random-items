@@ -3,7 +3,7 @@ A lightweight library that returns a new array with random unique items from an 
 
 ## Usage
 
-```
+```js
 import randomItems from 'random-items';
 
 const array = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];

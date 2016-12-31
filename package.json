@@ -1,7 +1,7 @@
 {
   "name": "random-items",
   "version": "1.0.0",
-  "description": "Returns a new array with random items from an array.",
+  "description": "Returns a new array with random unique items from an array.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

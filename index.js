@@ -14,8 +14,8 @@ function randomItems(arr, num) {
 
   while (num--) {
     var random = Math.floor(Math.random() * copy.length)
-    var element = copy.splice(random, 1)[0];
-    pickedItems.push(element);
+    var item = copy.splice(random, 1)[0];
+    pickedItems.push(item);
   }
 
   return pickedItems;

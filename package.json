@@ -1,6 +1,6 @@
 {
   "name": "random-items",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns a new array with random unique items from an array.",
   "main": "index.js",
   "scripts": {

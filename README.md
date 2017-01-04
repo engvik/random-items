@@ -1,7 +1,13 @@
 # random-items
-A lightweight library that returns a new array with random unique items from an array. Written in plain JavaScript with no dependencies.
+A function that returns a new array with random unique items from an array.
 
-## Usage
+## Install
+
+```
+npm install wrap-index
+```
+
+## Usage example
 
 ```js
 import randomItems from 'random-items';

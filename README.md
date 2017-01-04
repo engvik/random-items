@@ -4,7 +4,7 @@ A function that returns a new array with random unique items from an array.
 ## Install
 
 ```
-npm install wrap-index
+npm install random-items
 ```
 
 ## Usage example
